@@ -1,3 +1,15 @@
+<!-- ==================================================================== -->
+<!--                                                                      -->
+<!--   DROP 3D PORTFOLIO GIF URL HERE                                     -->
+<!--                                                                      -->
+<!--   Paste the markdown link from the GitHub issue upload on the        -->
+<!--   line directly below this block. It should look like:               -->
+<!--   ![3d](https://github.com/user-attachments/assets/xxxxxxxx)         -->
+<!--                                                                      -->
+<!-- ==================================================================== -->
+
+<!-- DROP 3D PORTFOLIO GIF URL HERE -->
+
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sampanna%20Shibabhakti&fontSize=42&fontColor=ffffff&desc=3D%20Web%20%7C%20Systems%20%7C%20Full-Stack&descSize=16&descAlignY=62"
   width="100%"
@@ -10,8 +22,6 @@
     alt="3D Web Designer and Developer, Systems and Backend Engineering"
   />
 </p>
-
-<!-- TODO: Insert GIF of WebGLBackground.tsx here (Width: 100%) -->
 
 ---
 
@@ -70,19 +80,23 @@ A few things these turned up that are worth more than the code:
 
 ---
 
-## 📊 Stats
+## 🐍 Contributions
 
 <p align="center">
-  <img
-    height="200em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sampshib-art&theme=radical"
-    alt="GitHub stats"
-  />
-  <img
-    height="200em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampshib-art&theme=radical"
-    alt="Most used languages"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sampshib-art/sampshib-art/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sampshib-art/sampshib-art/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution graph snake animation"
+      src="https://raw.githubusercontent.com/sampshib-art/sampshib-art/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
