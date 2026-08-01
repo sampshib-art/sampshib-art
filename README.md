@@ -26,7 +26,10 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>System Pulse</h3>
-      <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily quote" />
+      <br>
+      <p align="center">
+        <em>"Jack of all trades, master of none,<br>though oftentimes better than master of one."</em>
+      </p>
     </td>
   </tr>
 </table>
