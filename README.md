@@ -4,7 +4,7 @@
 
 ### Front-End & Systems Developer
 
-<!-- DROP YOUR 3D GIF URL HERE. MAKE SURE IT IS WIDE AND LOOKS CINEMATIC -->
+![Next.js Storefront Demo](./demo.gif)
 
 </div>
 
