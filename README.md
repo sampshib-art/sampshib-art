@@ -59,7 +59,7 @@
 
 <details open>
 
-<summary><h3>🛠️ Backend & Systems Engineering (9 Standalone Python Builds | 167 Tests)</h3></summary>
+<summary><h3>🛠️ Front-End & Systems Engineering (9 Standalone Python Builds | 167 Tests)</h3></summary>
 
 <br />
 
