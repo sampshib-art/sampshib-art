@@ -18,13 +18,15 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3>Toolkit</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=3" alt="Toolkit" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td valign="top" align="center">
       <h3>System Pulse</h3>
       <br>
       <p align="center">
