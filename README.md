@@ -1,28 +1,43 @@
-<div align="center">
+<p align="right">
+  <a href="https://www.linkedin.com/in/sampanna-s-8057343b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sampshib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sampshib-art&color=38BDF8&style=for-the-badge&label=VISITORS" height="28"/>
+</p>
 
-<h1>Hi, I'm Sampanna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0284c7&height=200&section=header&text=SAMPANNA%20SHIBABHAKTI&fontSize=42&fontAlignY=38&animation=twinkling&desc=3D%20UI/UX%20%26%20SYSTEMS%20ENGINEERING&descAlignY=62&descSize=18" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+Developer;Systems+Engineer;UI%2FUX+%26+Motion+Design)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+%26+Motion+Design;Systems+Architect+%26+Python;Interactive+3D+%26+Next.js" alt="Typing SVG" /></a>
+</p>
 
-<br />
+<p align="center">
+  <img src="./demo.gif" width="95%" style="border-radius:10px;" alt="Showcase Demo"/>
+</p>
 
-![Next.js Storefront Demo](./demo.gif)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sampshib-art&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/></a>
+</p>
 
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Toolkit</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=3" alt="Toolkit" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📡 System Pulse</h3>
+      <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily quote" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<h2 align="center">🌐 Featured Environments</h2>
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<div align="center"><h2>Featured Environments</h2></div>
-
-<table>
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://pranishstore1.netlify.app/">Pranish Store</a></h3>
@@ -31,13 +46,13 @@
           <img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logoColor=white" alt="View Pranish Store" />
         </a>
       </p>
-      <p>
-        Custom storefront, built from scratch. Next.js App Router with category and sub-category routing, product detail pages, and scroll-driven motion throughout.
+      <p align="center">
+        Custom storefront built from scratch. Next.js App Router, category and sub-category routing, scroll-driven motion throughout.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-14161a?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-14161a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-14161a?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -47,19 +62,17 @@
           <img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logoColor=white" alt="View Unseen Study" />
         </a>
       </p>
-      <p>
-        A WebGL interaction study — canvas scene, drag-to-explore navigation, audio toggle, scroll-bound motion. A recreation of <code>unseen.co</code> for study; the original design is theirs.
+      <p align="center">
+        WebGL interaction study. Drag-to-explore navigation, canvas scene, scroll-bound motion. A recreation of <code>unseen.co</code> for study; the original design is theirs.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/WebGL-14161a?style=flat-square&logo=webgl&logoColor=990000" />
-        <img src="https://img.shields.io/badge/Three.js-14161a?style=flat-square&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-14161a?style=flat-square&logo=greensock&logoColor=88CE02" />
+        <img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&logo=webgl&logoColor=990000" />
+        <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
       </p>
     </td>
   </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <details>
 
@@ -81,16 +94,6 @@ Six are pure-stdlib Python with no runtime dependencies — clone, `python -m <p
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampanna-s-8057343b9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampshib@gmail.com)
-
-<br />
-<br />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sampshib-art&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e293b,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
