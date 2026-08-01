@@ -16,7 +16,7 @@
 
 `Kathmandu, Nepal` · `Three.js / React Three Fiber` · `Python systems work` · `open to hackathons`
 
-<img src="https://img.shields.io/badge/-2ea44f?style=flat-square&label=tests%20passing&message=167&labelColor=14161a&color=2ea44f" alt="167 tests passing" />
+<img src="https://img.shields.io/badge/tests%20passing-167-2ea44f?style=flat-square&labelColor=14161a" alt="167 tests passing" />
 <img src="https://img.shields.io/badge/stdlib%20only-6%20of%209%20repos-7C3AED?style=flat-square&labelColor=14161a" alt="6 of 9 repos are stdlib only" />
 <img src="https://img.shields.io/github/last-commit/sampshib-art/Forge-StreamEngine?style=flat-square&labelColor=14161a&color=7C3AED&label=last%20push" alt="last push" />
 
