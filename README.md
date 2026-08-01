@@ -78,14 +78,16 @@
 
 Six are pure-stdlib Python with no runtime dependencies — clone, `python -m <package>`, `pytest`.
 
-- **[Forge-StreamEngine](https://github.com/sampshib-art/Forge-StreamEngine)** — Event-time stream analytics. Tumbling and sliding windows, VWAP, rolling anomaly detection. `45 tests`
-- **[Forge-ZeroTrust](https://github.com/sampshib-art/Forge-ZeroTrust)** — Zero-trust gateway. HMAC capability tokens with replay protection, deny-by-default policy. `27 tests`
-- **[Forge-Governance](https://github.com/sampshib-art/Forge-Governance)** — Config compliance auditing. Severity-weighted controls, CI exit codes. `26 tests`
-- **[Forge-Replica](https://github.com/sampshib-art/Forge-Replica)** — Leader/follower replication. Quorum commit, split-brain-safe failover. `25 tests`
-- **[Forge-Provision](https://github.com/sampshib-art/Forge-Provision)** — Declarative provisioning. Plan/apply/converge, content-hashed drift detection. `25 tests`
-- **[Forge-Microfront](https://github.com/sampshib-art/Forge-Microfront)** — Micro-frontend composition. Per-fragment timeout budgets, graceful fallbacks, TTL caching. `19 tests`
-- **[Forge-AgritechNode](https://github.com/sampshib-art/Forge-AgritechNode)** — IoT telemetry node. FastAPI over Server-Sent Events, RP2040 firmware, mock-hardware fallback.
-- **[Forge-Fulfillment](https://github.com/sampshib-art/Forge-Fulfillment)** — Order fulfillment core. HMAC-verified ingress, async queue, atomic SQLite writes.
-- **[Forge-Sentinel](https://github.com/sampshib-art/Forge-Sentinel)** — Host threat-intel daemon. Socket scanning, failed-auth windowing, local LLM triage.
+| Engineering Build | Architecture & Function | Coverage |
+| :--- | :--- | :---: |
+| **[Forge-StreamEngine](https://github.com/sampshib-art/Forge-StreamEngine)** | Event-time stream analytics, VWAP, rolling anomaly detection | <img src="https://img.shields.io/badge/45_tests-2ea44f?style=flat-square" alt="45 tests" /> |
+| **[Forge-ZeroTrust](https://github.com/sampshib-art/Forge-ZeroTrust)** | HMAC capability tokens with replay protection, deny-by-default policy | <img src="https://img.shields.io/badge/27_tests-2ea44f?style=flat-square" alt="27 tests" /> |
+| **[Forge-Governance](https://github.com/sampshib-art/Forge-Governance)** | Config compliance auditing, CI exit codes, severity-weighted controls | <img src="https://img.shields.io/badge/26_tests-2ea44f?style=flat-square" alt="26 tests" /> |
+| **[Forge-Replica](https://github.com/sampshib-art/Forge-Replica)** | Leader/follower replication, quorum commit, split-brain-safe failover | <img src="https://img.shields.io/badge/25_tests-2ea44f?style=flat-square" alt="25 tests" /> |
+| **[Forge-Provision](https://github.com/sampshib-art/Forge-Provision)** | Declarative provisioning, plan/apply/converge, content-hashed drift | <img src="https://img.shields.io/badge/25_tests-2ea44f?style=flat-square" alt="25 tests" /> |
+| **[Forge-Microfront](https://github.com/sampshib-art/Forge-Microfront)** | Micro-frontend composition, fragment timeout budgets, TTL caching | <img src="https://img.shields.io/badge/19_tests-2ea44f?style=flat-square" alt="19 tests" /> |
+| **[Forge-AgritechNode](https://github.com/sampshib-art/Forge-AgritechNode)** | IoT telemetry node, FastAPI over SSE, RP2040 firmware mock fallback | <img src="https://img.shields.io/badge/verified-38BDF8?style=flat-square" alt="verified" /> |
+| **[Forge-Fulfillment](https://github.com/sampshib-art/Forge-Fulfillment)** | Order fulfillment core, HMAC-verified ingress, atomic SQLite writes | <img src="https://img.shields.io/badge/verified-38BDF8?style=flat-square" alt="verified" /> |
+| **[Forge-Sentinel](https://github.com/sampshib-art/Forge-Sentinel)** | Host threat-intel daemon, socket scanning, failed-auth windowing | <img src="https://img.shields.io/badge/verified-38BDF8?style=flat-square" alt="verified" /> |
 
 </details>
