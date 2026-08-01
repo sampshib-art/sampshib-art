@@ -4,37 +4,19 @@
   <img src="https://komarev.com/ghpvc/?username=sampshib-art&color=38BDF8&style=for-the-badge&label=VISITORS" height="28"/>
 </div>
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sampanna+Shibabhakti" alt="Sampanna Shibabhakti" /></h1>
+<h1 align="center">Sampanna Shibabhakti</h1>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=3D+Web+Designer;Front-End+Developer;Systems+Engineer" alt="Roles" /></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=3D+Web+Designer;Front-End+Developer;Systems+Engineer" alt="3D Web Designer, Front-End Developer, Systems Engineer" /></h3>
 
 <p align="center">
-  <img src="./demo.gif" width="100%" style="border-radius:8px;" alt="Showcase Demo"/>
+  <img src="https://img.shields.io/badge/public_builds-9-38BDF8?style=for-the-badge&labelColor=0d1117" alt="9 public builds" />
+  <img src="https://img.shields.io/badge/tests_passing-167-2ea44f?style=for-the-badge&labelColor=0d1117" alt="167 tests passing" />
+  <img src="https://img.shields.io/badge/runtime_dependencies-0-38BDF8?style=for-the-badge&labelColor=0d1117" alt="zero runtime dependencies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sampshib-art&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="./demo.gif" width="100%" alt="Screen recording of the Pranish Store storefront: category navigation and scroll-driven motion"/>
 </p>
-
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" align="center">
-      <h3>Toolkit</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=3" alt="Toolkit" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center">
-      <h3>System Pulse</h3>
-      <br>
-      <p align="center">
-        <em>"Jack of all trades, master of none,<br>though oftentimes better than master of one."</em>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">Featured Environments</h2>
 
@@ -44,40 +26,40 @@
       <h3 align="center"><a href="https://pranishstore1.netlify.app/">Pranish Store</a></h3>
       <p align="center">
         <a href="https://pranishstore1.netlify.app/">
-          <img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logoColor=white" alt="View Pranish Store" />
+          <img src="https://img.shields.io/badge/Open_live_site-38BDF8?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Open Pranish Store" />
         </a>
       </p>
       <p align="center">
         Next.js App Router storefront. Custom category routing, scroll-driven animations. Built without templates.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://sampuu.netlify.app/">Unseen Study</a></h3>
       <p align="center">
         <a href="https://sampuu.netlify.app/">
-          <img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logoColor=white" alt="View Unseen Study" />
+          <img src="https://img.shields.io/badge/Open_live_site-38BDF8?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Open Unseen Study" />
         </a>
       </p>
       <p align="center">
         WebGL interaction study. Drag-to-explore canvas, audio-linked state, scroll-bound camera. Recreation of <code>unseen.co</code>; original design is theirs.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&logo=webgl&logoColor=990000" />
-        <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
+        <img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&logo=webgl&logoColor=990000" alt="WebGL" />
+        <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
       </p>
     </td>
   </tr>
 </table>
 
-<details>
+<details open>
 
-<summary><h3>🛠️ View Backend & Systems Engineering (9 Standalone Python Builds | 167 Tests)</h3></summary>
+<summary><h3>🛠️ Backend & Systems Engineering (9 Standalone Python Builds | 167 Tests)</h3></summary>
 
 <br />
 
@@ -96,3 +78,23 @@ Six are pure-stdlib Python with no runtime dependencies — clone, `python -m <p
 | **[Forge-Sentinel](https://github.com/sampshib-art/Forge-Sentinel)** | Host threat-intel daemon, socket scanning, failed-auth windowing | <img src="https://img.shields.io/badge/verified-38BDF8?style=flat-square" alt="verified" /> |
 
 </details>
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" align="center">
+      <h3>Toolkit</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=9" alt="Three.js, React, Next.js, Tailwind, TypeScript, Python, FastAPI, SQLite, Linux" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <h3>System Pulse</h3>
+      <br>
+      <p align="center">
+        <em>"Jack of all trades, master of none,<br>though oftentimes better than master of one."</em>
+      </p>
+    </td>
+  </tr>
+</table>
