@@ -2,7 +2,7 @@
 
 # Hi, I'm Sampanna.
 
-### 3D Web Designer & Full-Stack Developer
+### Front-End & Systems Developer
 
 <!-- DROP YOUR 3D GIF URL HERE. MAKE SURE IT IS WIDE AND LOOKS CINEMATIC -->
 
