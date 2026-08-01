@@ -1,41 +1,37 @@
-<p align="right">
+<div align="right">
   <a href="https://www.linkedin.com/in/sampanna-s-8057343b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sampshib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sampshib-art&color=38BDF8&style=for-the-badge&label=VISITORS" height="28"/>
+</div>
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sampanna+Shibabhakti" alt="Sampanna Shibabhakti" /></h1>
+
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=3D+Web+Designer;Front-End+Developer;Systems+Engineer" alt="Roles" /></h3>
+
+<p align="center">
+  <img src="./demo.gif" width="100%" style="border-radius:8px;" alt="Showcase Demo"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0284c7&height=200&section=header&text=SAMPANNA%20SHIBABHAKTI&fontSize=42&fontAlignY=38&animation=twinkling&desc=3D%20UI/UX%20%26%20SYSTEMS%20ENGINEERING&descAlignY=62&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+%26+Motion+Design;Systems+Architect+%26+Python;Interactive+3D+%26+Next.js" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="./demo.gif" width="95%" style="border-radius:10px;" alt="Showcase Demo"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sampshib-art&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sampshib-art&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>⚙️ Toolkit</h3>
+      <h3>Toolkit</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,tailwind,ts,py,fastapi,sqlite,linux&theme=dark&perline=3" alt="Toolkit" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📡 System Pulse</h3>
+      <h3>System Pulse</h3>
       <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily quote" />
     </td>
   </tr>
 </table>
 
-<h2 align="center">🌐 Featured Environments</h2>
+<h2 align="center">Featured Environments</h2>
 
 <table border="0" width="100%">
   <tr>
@@ -47,7 +43,7 @@
         </a>
       </p>
       <p align="center">
-        Custom storefront built from scratch. Next.js App Router, category and sub-category routing, scroll-driven motion throughout.
+        Next.js App Router storefront. Custom category routing, scroll-driven animations. Built without templates.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -63,7 +59,7 @@
         </a>
       </p>
       <p align="center">
-        WebGL interaction study. Drag-to-explore navigation, canvas scene, scroll-bound motion. A recreation of <code>unseen.co</code> for study; the original design is theirs.
+        WebGL interaction study. Drag-to-explore canvas, audio-linked state, scroll-bound camera. Recreation of <code>unseen.co</code>; original design is theirs.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&logo=webgl&logoColor=990000" />
@@ -93,7 +89,3 @@ Six are pure-stdlib Python with no runtime dependencies — clone, `python -m <p
 - **[Forge-Sentinel](https://github.com/sampshib-art/Forge-Sentinel)** — Host threat-intel daemon. Socket scanning, failed-auth windowing, local LLM triage.
 
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e293b,100:0d1117&height=120&section=footer" width="100%"/>
-</p>
